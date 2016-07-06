@@ -1,2 +1,4 @@
 let str = "Hello, world"
-str = "Goodbye, world"
+
+// Please don't change me...I'm just a constant, man
+// str = "Goodbye, world"
